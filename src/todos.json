@@ -1,0 +1,22 @@
+[
+    {
+        "id": "id-1",
+        "text": "Выучить реакт",
+        "completed": false
+    },
+    {
+        "id": "id-2",
+        "text": "Поубирать дома",
+        "completed": false
+    },
+    {
+        "id": "id-3",
+        "text": "Купить хлеб",
+        "completed": false
+    },
+    {
+        "id": "id-4",
+        "text": "Купить молоко",
+        "completed": false
+    }
+]
